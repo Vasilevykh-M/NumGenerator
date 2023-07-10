@@ -12,6 +12,6 @@
 ![75 эпох](https://github.com/Vasilevykh-M/NumGenerator/blob/master/Results/75.png)
 ![100 эпох](https://github.com/Vasilevykh-M/NumGenerator/blob/master/Results/100.png)
 ![125 эпох](https://github.com/Vasilevykh-M/NumGenerator/blob/master/Results/125.png)
-![150 эпох](https://www.example.com/image.jpg)
+![150 эпох](https://github.com/Vasilevykh-M/NumGenerator/blob/master/Results/150.png)
 ![175 эпох](https://github.com/Vasilevykh-M/NumGenerator/blob/master/Results/175.png)
 ![200 эпох](https://github.com/Vasilevykh-M/NumGenerator/blob/master/Results/200.png)
