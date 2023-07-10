@@ -70,5 +70,6 @@ def train(train_loader, epochs, lr, discriminator, generator, device):
         % (epoch + 1, epochs, D_train_loss / len(train_loader), G_train_loss / len(train_loader))
       )
 
+
   torch.save(discriminator.state_dict(), "discriminator.pth")
   torch.save(generator.state_dict(), "generator.pth")
